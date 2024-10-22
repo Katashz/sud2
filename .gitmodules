@@ -1,0 +1,3 @@
+[submodule "sud"]
+	path = sud
+	url = https://github.com/Katashz/sud.git
